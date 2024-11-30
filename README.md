@@ -1,7 +1,7 @@
 # PDO (PHP Data Objects) & DTO (Data Transfer Object)
 
 ## Giới thiệu
-Trong dự án này, chúng ta sẽ tìm hiểu về hai khái niệm quan trọng trong lập trình PHP: PDO (PHP Data Objects) và DTO (Data Transfer Object). 
+Chúng ta sẽ tìm hiểu về hai khái niệm quan trọng trong lập trình PHP: PDO (PHP Data Objects) và DTO (Data Transfer Object). 
 
 - **PDO**: Cung cấp một giao diện nhất quán để truy cập vào cơ sở dữ liệu.
 - **DTO**: Là một mẫu thiết kế dùng để chuyển giao dữ liệu giữa các thành phần trong ứng dụng.
