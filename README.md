@@ -29,6 +29,8 @@ try {
 } catch (PDOException $e) {
     echo "Connection failed: " . $e->getMessage();
 }
+```
+
 DTO (Data Transfer Object)
 Giới thiệu
 DTO là một mẫu thiết kế được sử dụng để truyền dữ liệu giữa các lớp hoặc thành phần trong ứng dụng mà không cần chứa logic xử lý.
@@ -51,6 +53,7 @@ class UserDTO {
     }
 }
 ```
+
 ```php
 // Sử dụng DTO
 $userDTO = new UserDTO(1, 'John Doe', 'john@example.com');
